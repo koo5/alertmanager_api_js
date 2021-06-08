@@ -1,5 +1,5 @@
 {
-  "name": "koo5/alertmanager_api",
+  "name": "alertmanager_api",
   "version": "0.0.1",
   "description": "API_of_the_Prometheus_Alertmanager__https__github_com_prometheus_alertmanager",
   "license": "Apache 2.0",
